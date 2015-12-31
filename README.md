@@ -1,3 +1,4 @@
-# Happy-New-Year2016
+angularjs-greensock-slideshow
+=============================
 
-"Happy New Year 2016"
+Full page slideshow built in AngularJS and Greensock.
