@@ -30,6 +30,10 @@ body {
 .nav a {
     background-color: rgba(255, 255, 255, 0.50);
 }
+
+.nav > li > a{
+    padding: 0 15px !important;
+}
 .progress {
     margin-top: 10%;
 }
