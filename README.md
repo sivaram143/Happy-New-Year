@@ -1,4 +1,4 @@
-angularjs-greensock-slideshow
-=============================
+angularjs happy new year slide show
+====================================
 
-Full page slideshow built in AngularJS and Greensock.
+Full page slideshow built in AngularJS
