@@ -6,7 +6,7 @@ app.controller('MainCtrl', function ($scope, $timeout, QueueService) {
         {id:"image01", src:"./images/image01.jpg"},
         {id:"image02", src:"./images/image02.gif"},
         {id:"image03", src:"./images/image03.jpg"}];
-        //{id:"image04", src:"./images/image04.jpg"}];
+        {id:"image04", src:"./images/image04.jpg"}];
 
     function setCurrentSlideIndex(index) {
         $scope.currentIndex = index;
